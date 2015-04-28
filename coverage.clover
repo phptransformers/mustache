@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1430265176">
+  <project timestamp="1430265176">
+    <package name="PhpTransformers\Mustache">
+      <file name="/home/rob/Documents/mustache/skeleton/src/MustacheTransformer.php">
+        <class name="MustacheTransformer" namespace="PhpTransformers\Mustache">
+          <metrics methods="3" coveredmethods="3" conditionals="0" coveredconditionals="0" statements="4" coveredstatements="4" elements="7" coveredelements="7"/>
+        </class>
+        <line num="12" type="method" name="getName" crap="1" count="1"/>
+        <line num="14" type="stmt" count="1"/>
+        <line num="17" type="method" name="__construct" crap="1" count="3"/>
+        <line num="19" type="stmt" count="3"/>
+        <line num="20" type="stmt" count="3"/>
+        <line num="21" type="method" name="render" crap="1" count="2"/>
+        <line num="23" type="stmt" count="2"/>
+        <metrics loc="25" ncloc="25" classes="1" methods="3" coveredmethods="3" conditionals="0" coveredconditionals="0" statements="4" coveredstatements="4" elements="7" coveredelements="7"/>
+      </file>
+    </package>
+    <metrics files="1" loc="25" ncloc="25" classes="1" methods="3" coveredmethods="3" conditionals="0" coveredconditionals="0" statements="4" coveredstatements="4" elements="7" coveredelements="7"/>
+  </project>
+</coverage>
