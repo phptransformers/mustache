@@ -20,8 +20,8 @@ $ composer require phptransformers/mustache
 ## Usage
 
 ``` php
-$skeleton = new phptransformers\Skeleton();
-echo $skeleton->echoPhrase('Hello, phptransformers!');
+$engine = new BladeTransformer();
+echo $engine->render('Hello, {{name}}!', array('name' => 'phptransformers'));
 ```
 
 ## Testing
